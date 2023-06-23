@@ -23,5 +23,11 @@
     "By": "От",
     "Previous issue": "Предыдущая статья",
     "Next issue": "Следующая статья",
-    "A collection of": "Коллекция"
+    "A collection of": "Коллекция",
+    "This post is for paying subscribers only": "Этот пост доступен только для платных подписчиков",
+    "This post is for subscribers only": "Этот пост доступен только для подписчиков",
+    "This post is for subscribers on the": "Этот пост доступен только для подписчиков следующих уровней:",
+    "_notatranslation_note": "Поле 'only' внизу является частью сниппета 'This post is for subscribers on the {tiers} only'",
+    "only": "",
+    "Already have an account? Sign in.": "Уже есть аккаунт? Войдите."
 }
