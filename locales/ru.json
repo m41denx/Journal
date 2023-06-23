@@ -1,3 +1,27 @@
 {
-    
+    "Load more issues": "Загрузить больше статей",
+    "Sign in": "Войти",
+    "Subscribe": "Подписаться",
+    "Account": "Аккаунт",
+    "Subscribe to": "Подписаться на",
+    "Don’t miss out on the latest issues.": "Не пропускайте новые статьи.",
+    "Sign up now to get access to the library of members-only issues.": "Присоединяйтесь, чтобы получить доступ ко всем статьям!",
+    "example_email": "cooldude@example.com",
+    "Powered by Ghost": "Работает на Ghost",
+    "Latest": "Последнее",
+    "% minute read": "% минута на чтение",
+    "% minutes read": "% минут(ы) на чтение",
+    "More issues": "Больше статей",
+    "About": "О нас",
+    "Upgrade to a paid account to get full access.": "Перейдите на платный план для полного доступа.",
+    "Upgrade now": "Разблокировать всё",
+    "Featured": "Популярные",
+    "Topics": "Темы",
+    "0 issues": "0 статей",
+    "% issue": "% статья",
+    "% issues": "% статьи(-ей)",
+    "By": "От",
+    "Previous issue": "Предыдущая статья",
+    "Next issue": "Следующая статья",
+    "A collection of": "Коллекция"
 }
